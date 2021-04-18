@@ -19,9 +19,8 @@
   I really like software development, however I decided to focus on Backend, mainly Javascript and Python languages.
 </p>
 
-<br/>
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript) 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)<br/>
@@ -42,3 +41,10 @@
 ![Postman](https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)<br/>
 ![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia) 
+
+## Extras:
+```js
+const extras = {
+  hobbies:[football, watchMMA, training, read, mangaAnime, toCook,knowNewPlaces, Travel]
+}
+```
