@@ -34,14 +34,14 @@ const leoda = {
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) <br/>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-white?style=flat-square&logo=expressjs)<br/>
+![Express.js](https://img.shields.io/badge/-Express-white?style=flat-square&logo=express)<br/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=Firebase)<br/>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)<br/>
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat-square&logo=heroku)<br/>
-![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)
+![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)<br/>
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)<br/>
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-white?style=flat-square&logo=ubuntu)<br/>
