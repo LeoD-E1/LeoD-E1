@@ -41,8 +41,8 @@ const leoda = {
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)<br/>
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)<br/>
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)<br/>
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)<br/>
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-white?style=flat-square&logo=ubuntu)<br/>
 ![Postman](https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman)
