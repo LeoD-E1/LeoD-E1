@@ -31,6 +31,8 @@ const leoda = {
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript) 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)<br/>
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) <br/>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-white?style=flat-square&logo=expressjs)<br/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
