@@ -19,14 +19,8 @@
   I really like software development, however I decided to focus on Backend, mainly Javascript and Python languages.
 </p>
 
+<br/>
 
-```js
-const leoda = {
-  profile: "Backend",
-  technologies: [Javascript, NodeJs, MongoDB, ReactJs, Python, Flask, PostgreSQL],
-  tools: [VisualStudioCode, git, [postman, insomnia], Terminal, robo3t, pgAdmin]
-}
-```
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript) 
