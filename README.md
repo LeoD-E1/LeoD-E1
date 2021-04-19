@@ -42,6 +42,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)<br/>
 ![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia) 
 
+![Leoda's stats](https://github-readme-stats.vercel.app/api?username=leod-e1)
+
 ## Extras:
 ```js
 const extras = {
