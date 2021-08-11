@@ -5,7 +5,7 @@
   <img align="left" alt="leoda's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/puro_back.js/">
+<a href="https://www.instagram.com/leoda.dev/">
   <img align="left" alt="puroback's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
