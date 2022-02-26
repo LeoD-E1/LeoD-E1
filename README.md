@@ -17,10 +17,9 @@
   <img align="left" alt="leoda's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a><br/><br/>
 
-<p>
-  A Backend JavaScript Developer 🚀 from Argentina.<br/>
-  Great tenacity and discipline, I am self-taught and I am constantly learning,i learn quickly, I have good communication and I like teamwork.<br/>
-  I really like software development, however I decided to focus on Backend, mainly Javascript and Python languages.
+<p> 
+  A full-stack JavaScript Developer 🚀 from BS AS, Argentina.<br/>
+  I like to develop intuitive and powerful applications that will be useful, I like to learn many technologies, however I am focusing on frontend.
 </p>
 
 
