@@ -9,10 +9,6 @@
   <img align="left" alt="puroback's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://leoda.vercel.app/">
-  <img align="left" alt="leoda's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atari.svg" />
-</a>
-
 <a href="mailto:leodangeli12@gmail.com?subject=Email%20Subject">
   <img align="left" alt="leoda's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a><br/><br/>
