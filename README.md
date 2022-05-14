@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://www.instagram.com/leoda.dev/">
-  <img align="left" alt="puroback's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="leoda's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="mailto:leodangeli12@gmail.com?subject=Email%20Subject">
@@ -14,13 +14,14 @@
 </a><br/><br/>
 
 <p> 
-  A full-stack JavaScript Developer 🚀 from BS AS, Argentina.<br/>
+  Full-stack Developer 🚀 from BS AS, Argentina.<br/>
   I like to develop intuitive and powerful applications that will be useful, I like to learn many technologies, however I am focusing on frontend.
 </p>
 
 
 ## 🛠️ Languages and Tools:
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript) 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
