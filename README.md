@@ -15,7 +15,7 @@
 
 <p> 
   Full-stack Developer 🚀 from BS AS, Argentina.<br/>
-  I like to develop intuitive and powerful applications that will be useful, I like to learn many technologies, however I am focusing on frontend.
+  I like to develop intuitive and powerful applications that will be useful
 </p>
 
 
@@ -45,9 +45,9 @@
 
 ![Leoda's stats](https://github-readme-stats.vercel.app/api?username=leod-e1)
 
-## Extras:
+## ABOUT:
 ```js
-const extras = {
-  hobbies:[football, watchMMA, training, read, mangaAnime, toCook,knowNewPlaces, Travel]
+const aboutMe = {
+  hobbies:[fuchiboooll, MMA, Box, training, read, manga, anime, cook]
 }
 ```
