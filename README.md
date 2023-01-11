@@ -14,7 +14,7 @@
 </a><br/><br/>
 
 <p> 
-  Full-stack Developer 🚀 from BS AS, Argentina.<br/>
+  Front-End Developer 🚀 from BS AS, Argentina.<br/>
   I like to develop intuitive and powerful applications that will be useful
 </p>
 
